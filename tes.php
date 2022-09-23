@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html lang="id">
     <head>
-        <title>Program Tabel berisi objek-objek praktikum 1 no 3</title>
+        <title>Praktikum 2 No.2b</title>
  
 
     </head>
