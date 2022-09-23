@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    
+    <title>Praktikum 3 No.1</title>
 </head>
 <body>
     
