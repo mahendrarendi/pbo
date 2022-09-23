@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-    <title>Tugas Kendaraan</title>
+    <title>Tugas Praktikum 3 No.2a</title>
 </head>
 <body>
     <div>
